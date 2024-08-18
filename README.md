@@ -6,9 +6,18 @@ Type `pip install pygame` in cmd to install pygame.
 
 # How to use?
 
-使用方式：打開程式後，就會生成隨機座位表。如果你想要測試不同的隨機座位表，請打開後關閉程式，關閉後再打開一次。
+（v1.0）使用方式：打開程式後，就會生成隨機座位表。如果你想要測試不同的隨機座位表，請打開後關閉程式，關閉後再打開一次。
 
-How to use : After opening the program, a random seating table will be generated. If you want to test different random seating tables, please open and close the program, close and then open again.
+(if you use v1.0) How to use : After opening the program, a random seating table will be generated. If you want to test different random seating tables, please open and close the program, close and then open again.
+
+（v1.1）使用方式：打開程式後可點擊"重排座位"按鈕重新排列座位表。
+
+After opening the program, you can click the "Rearrange Seats" button to rearrange the seating chart.
+
+# Version（版本歷史）
+
+- （2024/06/22）v1.0 : Release（釋出版本v1.0）
+- （2024/08/18）v1.1 : It adds two new buttons: screenshot and rearrange seats（新增兩個新按鈕：截圖、重排座位）
 
 # Why make this?
 
