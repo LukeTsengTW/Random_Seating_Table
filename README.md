@@ -19,6 +19,16 @@ After opening the program, you can click the "Rearrange Seats" button to rearran
 - （2024/06/22）v1.0 : Release（釋出版本v1.0）
 - （2024/08/18）v1.1 : It adds two new buttons: screenshot and rearrange seats（新增兩個新按鈕：截圖、重排座位）
 
+# UI（Ver1.1）
+
+Traditional Chinese :
+
+![TCVer](https://github.com/user-attachments/assets/3f6c4bbc-5b80-4619-8f6c-1f98e4f66003)
+
+English :
+
+![ENVer](https://github.com/user-attachments/assets/beca7452-16de-4987-98ed-0db1bbbde441)
+
 # Why make this?
 
 因為我看到我們班上的導師正在為班上排座位表而感到煩惱，所以我想說我能不能透過我的程式設計技能來幫助導師解決這個問題。
